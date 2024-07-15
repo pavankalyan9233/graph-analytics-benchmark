@@ -1,0 +1,7 @@
+# Container data
+neo4j_db/
+adb_single_server/
+adb_cluster/
+
+# IDE
+.idea
